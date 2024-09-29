@@ -103,3 +103,5 @@ Check out more on my [Blog](http://dravit.in/blog)
 
 ![GitHub Stats](link-to-your-image)  <!-- You can replace this with the actual URL of the image if uploaded to a hosting service -->
 
+### Francisco A. Taveira's GitHub Stats:
+![Francisco A Taveira's GitHub Stats](./path-to-your/image.png) <!-- Use the relative path to the image -->
