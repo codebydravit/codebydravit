@@ -76,7 +76,11 @@ Check out more on my [Blog](http://dravit.in/blog)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python)
 
 **AI & Databases**:
+![VectorDB](https://img.shields.io/badge/-VectorDB-111111?style=flat-square)
 ![Pinecone](https://img.shields.io/badge/-Pinecone-111111?style=flat-square)
+![Pinecone](https://img.shields.io/badge/-Pinecone-111111?style=flat-square)
+![Pinecone](https://img.shields.io/badge/-Pinecone-111111?style=flat-square)
+
 ![LLaMA](https://img.shields.io/badge/-LLaMA-111111?style=flat-square)
 ![OpenAI](https://img.shields.io/badge/-OpenAI-111111?style=flat-square)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql)
