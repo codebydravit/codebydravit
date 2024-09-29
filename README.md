@@ -89,4 +89,6 @@ Check out more on my [Blog](http://dravit.in/blog)
 ---
 **VectorDB**:
 ![Pinecone](https://img.shields.io/badge/-Pinecone-111111?style=flat-square)
-
+![Chroma](https://img.shields.io/badge/-Chroma-111111?style=flat-square)
+![FAISS](https://img.shields.io/badge/-FAISS-111111?style=flat-square)
+![Qdrant](https://img.shields.io/badge/-Qdrant-111111?style=flat-square)
