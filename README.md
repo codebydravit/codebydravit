@@ -84,24 +84,3 @@ Check out more on my [Blog](http://dravit.in/blog)
 
 ---
 
-### 🔥 Pinned Projects:
-- [Excel Bulk WhatsApp Message Send System](#)  
-  Automate bulk messaging with WhatsApp using React.js frontend and Node.js backend.
-  
-- [Farmer AI Chatbot](#)  
-  AI chatbot providing real-time weather, market prices, and more.
-
----
-### Francisco A. Taveira's GitHub Stats:
-| Metric                        | Value |
-|-------------------------------|-------|
-| Total Stars Earned:           | 2     |
-| Total Commits:                | 197   |
-| Total PRs:                    | 60    |
-| Total Issues:                 | 0     |
-| Contributed to (last year):   | 2     |
-
-![GitHub Stats](link-to-your-image)  <!-- You can replace this with the actual URL of the image if uploaded to a hosting service -->
-
-### Francisco A. Taveira's GitHub Stats:
-![Francisco A Taveira's GitHub Stats](./path-to-your/image.png) <!-- Use the relative path to the image -->
