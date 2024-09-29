@@ -6,12 +6,6 @@
 
 ---
 
-### 🚀 About Me:
-
-I'm passionate about leveraging the power of AI to build intelligent systems and creating seamless full-stack solutions. With a background in both frontend and backend development, I love integrating AI models into real-world applications, automating workflows, and enhancing user experiences.
-
----
-
 ### 🌟 Expertise:
 
 - **AI Development**: Implementing cutting-edge AI-driven applications, including voice integrations, LLMs, and more.  
