@@ -92,4 +92,14 @@ Check out more on my [Blog](http://dravit.in/blog)
   AI chatbot providing real-time weather, market prices, and more.
 
 ---
+### Francisco A. Taveira's GitHub Stats:
+| Metric                        | Value |
+|-------------------------------|-------|
+| Total Stars Earned:           | 2     |
+| Total Commits:                | 197   |
+| Total PRs:                    | 60    |
+| Total Issues:                 | 0     |
+| Contributed to (last year):   | 2     |
+
+![GitHub Stats](link-to-your-image)  <!-- You can replace this with the actual URL of the image if uploaded to a hosting service -->
 
