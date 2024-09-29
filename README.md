@@ -69,24 +69,26 @@ Check out more on my [Blog](http://dravit.in/blog)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react)
-
-**Backend**:
+![vite](https://img.shields.io/badge/-vite-61DAFB?style=flat-square&logo=react)
+**Backend **API Devepolement**:**:
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js)
 ![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat-square&logo=express)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python)
 
-**AI & Databases**:
-![VectorDB](https://img.shields.io/badge/-VectorDB-111111?style=flat-square)
-![Pinecone](https://img.shields.io/badge/-Pinecone-111111?style=flat-square)
-![Pinecone](https://img.shields.io/badge/-Pinecone-111111?style=flat-square)
-![Pinecone](https://img.shields.io/badge/-Pinecone-111111?style=flat-square)
-
-![LLaMA](https://img.shields.io/badge/-LLaMA-111111?style=flat-square)
-![OpenAI](https://img.shields.io/badge/-OpenAI-111111?style=flat-square)
+**Databases**:
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb)
 
----
+**LLM**:
+![OpenAI](https://img.shields.io/badge/-OpenAI-111111?style=flat-square)
+![LLaMA](https://img.shields.io/badge/-LLaMA-111111?style=flat-square)
+![Groq](https://img.shields.io/badge/-Groq-111111?style=flat-square)
+![Anthropic](https://img.shields.io/badge/-Anthropic-111111?style=flat-square)
+
+**Embeddings**:
+![OpenAI](https://img.shields.io/badge/-OpenAI-111111?style=flat-square)
+![Sentence Embeddings](https://img.shields.io/badge/-Sentence Embeddings-111111?style=flat-square)
+
 **VectorDB**:
 ![Pinecone](https://img.shields.io/badge/-Pinecone-111111?style=flat-square)
 ![Chroma](https://img.shields.io/badge/-Chroma-111111?style=flat-square)
