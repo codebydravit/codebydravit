@@ -87,4 +87,6 @@ Check out more on my [Blog](http://dravit.in/blog)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb)
 
 ---
+**VectorDB**:
+![Pinecone](https://img.shields.io/badge/-Pinecone-111111?style=flat-square)
 
